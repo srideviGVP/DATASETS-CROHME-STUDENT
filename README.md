@@ -7,7 +7,6 @@ This repository contains the dataset link for the CROHME student dataset.
 The dataset is uploaded in Google Drive due to file size limitations.
 
 Dataset link:
-
 [Click here to access CROHME 2019  dataset](https://drive.google.com/drive/folders/1ZLVjmdhJAOBAy-J6lrL_NVJhrMerRtAG?usp=sharing)
 
 Dataset link:
